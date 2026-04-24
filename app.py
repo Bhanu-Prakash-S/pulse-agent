@@ -136,6 +136,6 @@ st.markdown("""
 <div class="tg-footer">
     Built by <strong>Bhanu Prakash Simhadri</strong> &nbsp;·&nbsp;
     Stack: Python · Claude API (Anthropic) · Streamlit &nbsp;·&nbsp;
-    <a href="https://github.com/bhanusimhadri" target="_blank">GitHub</a>
+    <a href="https://github.com/Bhanu-Prakash-S" target="_blank">GitHub</a>
 </div>
 """, unsafe_allow_html=True)
