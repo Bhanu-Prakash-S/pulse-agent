@@ -1,6 +1,6 @@
 # 🏢 Talent Groups — Business Pulse Agent
 
-> **[Live Demo →](https://your-username-pulse-agent.streamlit.app)**
+> **[Live Demo →](https://pulse-agent.streamlit.app/)**
 
 An AI agent that synthesizes **Bullhorn ATS** and **Microsoft Dynamics 365 Business Central** data into a single, concise executive briefing for the CIO — surfacing billing gaps, AR anomalies, recruiter performance drops, and aged job orders across both systems.
 
